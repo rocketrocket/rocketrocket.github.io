@@ -1,3 +1,3 @@
 # Rocket² website
 
-Acesse em [rocketrocket.com.br](rocketrocket.com.br)!
+Acesse em [www.rocketrocket.com.br](www.rocketrocket.com.br)!
