@@ -1,3 +1,3 @@
 # Rocket² website
 
-Acesse em [www.rocketrocket.com.br](www.rocketrocket.com.br)!
+Acesse em <a href="http://www.rocketrocket.com.br" target="_blank">rocketrocket.com.br</a>!
